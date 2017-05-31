@@ -1,8 +1,8 @@
 # Todo API
 
-##API Endpoints
+## API Endpoints
 
-##Our API will expose the following RESTful endpoints.
+## Our API will expose the following RESTful endpoints.
 
 ### Endpoint	                        
 * POST /signup	                    
